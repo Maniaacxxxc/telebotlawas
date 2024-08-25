@@ -32,7 +32,7 @@ nano /root/Telebot-Radius/files/auth
 ##### AUTO INSTALLER
 
 ```
-cd /tmp && curl -sLko install https://raw.githubusercontent.com/Maizil41/Telebot-Radius/main/installer.sh && bash install
+cd /tmp && curl -sLko install https://raw.githubusercontent.com/Maniaacxxxc/telebotlawas/main/installer.sh && bash install
 ```
 *
 *
